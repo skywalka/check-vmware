@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# Licence : GPL - http://www.fsf.org/licenses/gpl.txt
 use strict;
 use warnings;
 use VMware::VIRuntime;
